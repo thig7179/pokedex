@@ -1,4 +1,5 @@
-# projeto
+# projeto Pokedex Vue.JS
+##projeto de ensino do curso de Vue.js
 
 ## Project setup
 ```
